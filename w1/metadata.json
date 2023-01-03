@@ -1,0 +1,16 @@
+{
+  "description": "NFT-Powered, Human Centered, Web3 Dating.", 
+  "external_url": "https://dreampond.io/", 
+  "image": "https://ipfs.filebase.io/ipfs/QmbzmPTBtc9AHYkGLkSKWJUPRCnNBUHsX1MUrWsNnLWhJD", 
+  "name": "dreampond OG",
+  "attributes": [
+    {
+      "trait_type": "Animal", 
+      "value": "Cocodrile"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Blue"
+    }
+  ] 
+}
